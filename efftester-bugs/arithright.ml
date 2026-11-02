@@ -1,0 +1,1 @@
+let (i:int) = (*int_of_string (string_of_int*) ((asr) (-1) (-1)) in print_int i
